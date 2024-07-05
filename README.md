@@ -32,8 +32,5 @@ And now we are able to execute the actual chatbot streamlit app running from our
 ```
 streamlit run app.py
 ```
-Here we have an example of the streamlit interface of the chat and a sample question response..
-
-![image](https://github.com/DBerrio/LLMLokaTest/assets/100231892/01a94674-ae3e-453c-bbba-a22de32e4da6)
 
 
